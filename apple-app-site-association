@@ -1,0 +1,15 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+			"appID": "A5J34NR598.com.clevertap.demo",
+			"paths": ["NOT /admin/*", "NOT /*/amazon_payments/callback", "NOT /*/checkouts/*/express/callback", "/*"]
+		}]
+	},
+	"webcredentials": {
+		"apps": []
+	},
+	"app_clips": {
+		"apps": []
+	}
+}
